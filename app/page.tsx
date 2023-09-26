@@ -1,7 +1,9 @@
+import Hero from "@/components/Hero";
+
 export default function Home() {
   return (
     <div>
-      <h2>Subcribe to Khoa channels</h2>
+      <Hero />
     </div>
   );
 }
